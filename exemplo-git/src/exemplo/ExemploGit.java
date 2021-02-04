@@ -2,6 +2,7 @@ package exemplo;
 
 public class ExemploGit {
 	public static void main(String[] args) {
-		System.out.println("ol· git");
+		System.out.println("ol√° git");
 	}
+	//alterar do git
 }
