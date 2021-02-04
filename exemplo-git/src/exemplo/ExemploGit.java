@@ -5,4 +5,5 @@ public class ExemploGit {
 		System.out.println("olá git");
 	}
 	//alterar do git
+	//alterado do eclipse
 }
